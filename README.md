@@ -6,14 +6,17 @@ HakoForge will share 3D models and documentation on our [GitHub](https://github.
 [Instagram](https://www.instagram.com/hakoforge/)<br/>
 [Twitter/X](https://x.com/HakoForge)<br/>
 # HakoCore User Manual
-[Latest Version (V1.0)](https://hakoforge.com/)
-
+[Latest Version (V1.0)](https://raw.githubusercontent.com/HakoForge/HakoCore/refs/heads/main/HakoCore%20User%20Manual%20V1.0.pdf)
+  - HakoCore User Manual and PCB spec sheets
+  
 The HakoCore will be continually evolving and documentation may be changed or updated. Visit our [GitHub](https://github.com/HakoForge/HakoCore) to see view past versions.
 
 # Cages and PCBs
-There are two form factors for the HakoCore system:
-Standard form factor
-Mini form factor
-These form factors will be consistant throughout our product line up. This will allow us to develop future products that you will be commpatible your HakoCore in the future. We have many in the pipeline but want to hear from the community on what they would like to see made. 
+There are two form factors for the HakoCore system:<br/>
+
+Standard form factor<br/>
+Mini form factor<br/>
+
+These form factors will be consistant throughout our product line up. This will allow us to develop future products that will be commpatible your HakoCore in the future. We have many in the pipeline but want to hear from the community on what they would like to see made. 
 
 If you have a knack for 3D modeling, you can use our models as a base and create something unique for your own use. Our PCBs will be available for individual purchase.
