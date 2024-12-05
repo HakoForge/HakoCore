@@ -17,6 +17,6 @@ There are two form factors for the HakoCore system:<br/>
 Standard form factor<br/>
 Mini form factor<br/>
 
-These form factors will be consistant throughout our product line up. This will allow us to develop future products that will be commpatible your HakoCore in the future. We have many in the pipeline but want to hear from the community on what they would like to see made. 
+These form factors will be consistent throughout our product line up. This will allow us to develop future products that will be compatible with your HakoCore in the future. We have many in the pipeline, but want to hear from the community on what they would like to see made. 
 
 If you have a knack for 3D modeling, you can use our models as a base and create something unique for your own use. Our PCBs will be available for individual purchase.
