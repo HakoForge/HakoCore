@@ -1,6 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/HakoForge/HakoCore/refs/heads/main/HFLogoText.png)
 # WELCOME TO THE FORGE!
 HakoForge will share 3D models and documentation on our [GitHub](https://github.com/HakoForge/HakoCore). Our hope for this project is to have the community's ideas contribute to the development of the products. Join our Discord to see what others are doing with their HakoCore and let us know what you would like to see.<br/>
+[HakoForge](https://hakoforge.com/)<br/>
 [Reddit](https://www.reddit.com/r/hakoforge/)<br/>
 [Discord](https://discord.com/invite/3kjpbmckgm)<br/>
 [Instagram](https://www.instagram.com/hakoforge/)<br/>
